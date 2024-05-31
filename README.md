@@ -1,4 +1,4 @@
-# Panda clik demo
+# Simulatore ROS2 per compito 06/2022
 
 [![N|Solid](https://www.unicampania.it/doc/img/logo_vanvitelli.jpg)](https://www.ingegneria.unicampania.it/roboticslab)
 
